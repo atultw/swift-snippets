@@ -1,3 +1,5 @@
+// I couldn't find a SwiftUI example for the Auth0 SDK so here's one I wrote. It's pretty easy to port to SwiftUI.
+
 import SwiftUI
 import Auth0
 
